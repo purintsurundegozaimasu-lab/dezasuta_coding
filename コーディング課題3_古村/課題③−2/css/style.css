@@ -12,7 +12,7 @@ body {
 }
 
 .section-title {
-  margin: 60px; /* 左右のmarginは.wrapperでセンター揃え指定済みだからいらない*/
+  margin: 60px 0; /* 左右のmarginは.wrapperでセンター揃え指定済みだからいらない*/
   color: #398072; /* 文字色をグリーンに */
 }
 
